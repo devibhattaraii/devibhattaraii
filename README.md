@@ -13,7 +13,7 @@
 
 <!-- I love solving problems working on impactful projects that deliver quality to company's products.  -->
 
-<!-- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" /> -->
+<img align="right" alt="GIF" src="devops.png" width="300" height="" />
 
 <p align="center">
   <li>  &nbsp; 💞️ My Motto in life is to <b>BLOOM WITH GRACE!✨</b>
