@@ -16,11 +16,11 @@
 <img align="right" alt="GIF" src="devops.png" width="300" height="" />
 
   <li>  &nbsp; 💞️ My Motto in life is to <b>BLOOM WITH GRACE!✨</b>
-  <li> &nbsp;  👨‍💻 EI am mployed as a full-time DevOps Engineer.
+  <li> &nbsp;  👨‍💻 I am employed as a full-time DevOps Engineer.
   <li>  &nbsp; 🚀 Currently learning Advanced DevOps and it's technologies. 
   <li> &nbsp; 💻 I enjoy getting my hands dirty in Backend as well.
   <li> &nbsp;  💬 You can ask me anything, I'll give my best.
-  <li> &nbsp; 📫 Reach me via mail: <a>devakabhattaraii@gmail.com</a>
+  <li> &nbsp; 📫 Reach me via mail: <b>devakabhattaraii@gmail.com</b>
   <li> &nbsp;  👨‍💻 I am Open to collaborate, Let's grab a coffee.
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devibhattaraii&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
