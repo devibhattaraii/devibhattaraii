@@ -14,7 +14,7 @@
 <!-- I love solving problems working on impactful projects that deliver quality to company's products.  -->
 
 <img align="right" alt="GIF" src="devops.png" width="300" height="" />
-
+<p align="center">
   <li>  &nbsp; 💞️ My Motto in life is to <b>BLOOM WITH GRACE!✨</b>
   <li> &nbsp;  👨‍💻 I am employed as a full-time DevOps Engineer.
   <li>  &nbsp; 🚀 Currently learning Advanced DevOps and it's technologies. 
@@ -22,6 +22,7 @@
   <li> &nbsp;  💬 You can ask me anything, I'll give my best.
   <li> &nbsp; 📫 Reach me via mail: <b>devakabhattaraii@gmail.com</b>
   <li> &nbsp;  👨‍💻 I am Open to collaborate, Let's grab a coffee.
+</p>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devibhattaraii&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  -->
