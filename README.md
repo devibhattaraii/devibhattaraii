@@ -15,16 +15,13 @@
 
 <img align="right" alt="GIF" src="devops.png" width="300" height="" />
 
-<p align="center">
   <li>  &nbsp; 💞️ My Motto in life is to <b>BLOOM WITH GRACE!✨</b>
-  <li>  &nbsp; 🚀 I’m currently learning about Advanced DevOps and it's modern tools. 
-  <li> &nbsp; 💻 I am also inretested in AI implementation on real-life projects.
-  <li> &nbsp;  💬 You can ask me anything about <b>Devops Tools and technologies</b>
-  <li> &nbsp;  👨‍💻 My public projects are pushed to repos on <a>github.com/devibhattaraii</a>
-  <li> &nbsp; 📫 You can reach me via mail: <a>devakabhattaraii@gmail.com</a>
-  <li> &nbsp;  👨‍💻 I am Open to collaborate. Mail me the project detail & Let's grab a coffee.
-</p>
-
+  <li> &nbsp;  👨‍💻 EI am mployed as a full-time DevOps Engineer.
+  <li>  &nbsp; 🚀 Currently learning Advanced DevOps and it's technologies. 
+  <li> &nbsp; 💻 I enjoy getting my hands dirty in Backend as well.
+  <li> &nbsp;  💬 You can ask me anything, I'll give my best.
+  <li> &nbsp; 📫 Reach me via mail: <a>devakabhattaraii@gmail.com</a>
+  <li> &nbsp;  👨‍💻 I am Open to collaborate, Let's grab a coffee.
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devibhattaraii&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  -->
