@@ -17,7 +17,7 @@
 <p align="center">
   <li>  &nbsp; 💞️ My Motto in life is to <b>BLOOM WITH GRACE!✨</b>
   <li> &nbsp;  👨‍💻 I am employed as a full-time DevOps Engineer.
-  <li>  &nbsp; 🚀 Currently learning Advanced DevOps and it's technologies. 
+  <li>  &nbsp; 🚀 TEST 
   <li> &nbsp; 💻 I enjoy getting my hands dirty in Backend as well.
   <li> &nbsp;  💬 You can ask me anything, I'll give my best.
   <li> &nbsp; 📫 Reach me via mail: <b>devakabhattaraii@gmail.com</b>
